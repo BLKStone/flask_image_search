@@ -23,7 +23,7 @@ dnspython==1.11.1
 docutils==0.12
 douban.fm==0.4.3
 duplicity==0.6.23
-Flask==0.10.1
+Flask==1.0
 funcsigs==0.4
 functools32==3.2.3.post2
 gunicorn==19.4.5
