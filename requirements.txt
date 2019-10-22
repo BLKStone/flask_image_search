@@ -133,7 +133,7 @@ ubuntu-kylin-software-center==0.2.9
 Unidecode==0.4.14
 unity-china-photo-scope==1.0
 unity-lens-photos==1.0
-urllib3==1.7.1
+urllib3==1.24.2
 virtualenv==13.1.2
 virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.0
