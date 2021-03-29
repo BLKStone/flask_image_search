@@ -80,7 +80,7 @@ pybloom==1.1
 pycrypto==2.6.1
 pycups==1.9.66
 pycurl==7.19.3
-Pygments==2.0.2
+Pygments==2.7.4
 pygobject==3.12.0
 PyInstaller==3.0
 pymongo==3.0.3
