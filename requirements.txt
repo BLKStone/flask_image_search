@@ -126,7 +126,7 @@ terminado==0.5
 tldr==0.1.1
 tornado==4.2.1
 traitlets==4.0.0
-Twisted==15.2.1
+Twisted==20.3.0
 Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 ubuntu-kylin-software-center==0.2.9
