@@ -17,7 +17,7 @@ decorator==4.0.2
 defer==1.0.6
 defusedxml==0.4.1
 dirspec==13.10
-Django==1.8.2
+Django==2.2.24
 django-bootstrap-toolkit==2.15.0
 dnspython==1.11.1
 docutils==0.12
