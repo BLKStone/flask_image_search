@@ -28,7 +28,7 @@ funcsigs==0.4
 functools32==3.2.3.post2
 gunicorn==19.4.5
 gyp==0.1
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.8
 ipykernel==4.0.3
 ipython==4.0.0
