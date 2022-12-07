@@ -6,7 +6,7 @@ beautifulsoup4==4.2.1
 bitarray==0.8.1
 bootstrap-admin==0.3.6
 capstone==3.0.4
-certifi==2015.4.28
+certifi==2022.12.7
 chardet==2.0.1
 colorama==0.2.5
 command-not-found==0.3
